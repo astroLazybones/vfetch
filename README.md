@@ -1,13 +1,9 @@
 # vfetch
 A simple neofetch clone written in V
 
-### Compiling
+### Compiling w/o installing
 ```bash
 $ make
-```
-### Running
-```bash
-$ ./vfetch
 ```
 ### Installing/Compiling and installing:
 ```bash
