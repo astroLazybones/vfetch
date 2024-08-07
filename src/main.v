@@ -8,7 +8,6 @@ fn main() {
   uname_name := uname.sysname
   uname_host := uname.nodename
   uname_arch := uname.machine
-  gpu_name := os.wgpu_get_device()
 
   println("OS: ${uname_name} ${uname_arch}")
   println("Host: ${uname_host}")
