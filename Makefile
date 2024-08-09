@@ -1,3 +1,5 @@
+.PHONY: vfetch
+
 vfetch:
 	v -o vfetch src/main.v
 

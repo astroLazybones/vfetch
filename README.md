@@ -9,3 +9,9 @@ $ make
 ```bash
 $ make install
 ```
+<sub>Do not run this command on Windows<br>
+It will not install it on Windows.</sub>
+
+#### Requirements:
+
+* [V](https://vlang.io/)
