@@ -1,4 +1,4 @@
-.PHONY: vfetch
+.PHONY: vfetch install clean
 
 vfetch:
 	v -o vfetch src/main.v
